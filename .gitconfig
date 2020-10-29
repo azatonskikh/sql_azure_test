@@ -1,0 +1,10 @@
+[user]
+	name = azatonskikh
+	email = alexey.zatonskikh@gmail.com
+[difftool "sourcetree"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[credential "helperselector"]
+	selected = store
